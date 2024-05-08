@@ -23,10 +23,10 @@ pip install -r requirements.txt
    - Handle missing values
    - Encode categorical variables
    - Standardize numerical features
-3.Explore the data using the EDA:
+3. Explore the data using the EDA:
    - Analyze factors contributing to attrition
    - Visualize the data using line plots and pie charts outputs
-4.Develop and evaluate models to predict attrition:
+4. Develop and evaluate models to predict attrition:
    - Split the data into training and testing sets
    - Implement grid search to find the best model and parameters
    - Evaluate the model using accuracy, precision, recall, and F1 score and display the best results.
